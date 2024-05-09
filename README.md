@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hi! I'm Uttam raj, BTech at NIT Agartala. Web dev enthusiast skilled in HTML, CSS, JS, diving into React & Node.js.
 
-<!--
-**frumptiousclone/frumptiousclone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Competitive programmer sharpening my DSA skills.
 
-Here are some ideas to get you started:
+📚 Learning: Advanced JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact: uttam282005@gmail.com
+
+🔗 LinkedIn: [linkedin.com/in/uttam-raj-050709269](https://www.linkedin.com/in/uttam-raj-050709269/)
+
+"Code, learn, innovate!"
+
+
+
