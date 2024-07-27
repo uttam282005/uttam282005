@@ -2,7 +2,7 @@
 
 🔍 Competitive programmer sharpening my DSA skills.
 
-📚 Learning: Advanced JavaScript, React
+📚 Learning: Docker, nextjs
 
 📫 Contact: uttam282005@gmail.com
 
