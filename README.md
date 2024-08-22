@@ -1,4 +1,6 @@
-👋 Hi! I'm Uttam raj, BTech at NIT Agartala. Web dev enthusiast skilled in HTML, CSS, JS, TS, React, Tailwind & Node.js.
+👋 Hi! I'm Uttam raj, BTech at NIT Agartala. 
+
+Web dev enthusiast skilled in HTML, CSS, JS, TS, React, Tailwind, Node.js, Mongoose, Prisma, Hono, Langchain & many more.
 
 🔍 Competitive programmer sharpening my DSA skills.
 
