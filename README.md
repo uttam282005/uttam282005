@@ -1,4 +1,4 @@
-👋 Hi! I'm Uttam raj, pursuing my bachelor's and master's of technology in **computational mathematics**. 
+👋 Hi! I'm Uttam raj, a sophomore at NIT Agartala, pursuing my bachelor's and master's of technology in **computational mathematics**.  
 
 - I am interested in learning the fundamentals of software development.
 
